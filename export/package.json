@@ -1,0 +1,14 @@
+{
+  "name": "bun-init-",
+  "module": "export_token.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "csv-simple-parser": "^1.0.2"
+  }
+}
